@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resource :artist
-  resource :song
-  resource :genre
+  resource :artists
+  resource :songs
+  resource :genres
 end
